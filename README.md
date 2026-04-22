@@ -162,7 +162,7 @@ _Use a background image instead of a color_
 
 ```yaml
 type: custom:banner-card
-background: 'url("https://source.unsplash.com/random/500x300")'
+background: 'url("https://picsum.photos/500/300")'
 heading: Image bacground
 ```
 
